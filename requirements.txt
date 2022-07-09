@@ -1,0 +1,11 @@
+tqdm
+numpy
+pandas
+matplotlib
+watermark
+scikit-learn
+scipy
+nbdime
+runipy
+seaborn
+surprise
